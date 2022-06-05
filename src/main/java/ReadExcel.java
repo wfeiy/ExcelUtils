@@ -19,7 +19,7 @@ public class ReadExcel {
     private static final int MAX_ROW_CUT = 9;
 
     public static void main(String[] args) {
-        String excelName = "";
+        String excelName = "excel";
         readExcel(excelName);
     }
 
